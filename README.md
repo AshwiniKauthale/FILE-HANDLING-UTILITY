@@ -12,7 +12,9 @@
 
 **MENTOR NAME** : NEELA SANTOSH
 
-# ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS
+# ENTER DESCRIPTION OF TASK PERFORMED NOT LESS THAN 500 WORDS :
+
+    This Java program demonstrates basic file operations: reading from, writing to, and modifying text files. These are fundamental tasks for many applications that require persistent storage of data. The example uses the java.io package, which provides the necessary classes for file manipulation.
 
 # Output of the Task :
 
